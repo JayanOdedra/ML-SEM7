@@ -12,7 +12,7 @@ similarity = cosine_similarity(A, B)
 # Dissimilarity measure - Euclidean Distance
 dissimilarity = euclidean(A[0], B[0])
 
-# Display results
+# after that Display results 
 print("Data Point A:", A[0])
 print("Data Point B:", B[0])
 
